@@ -1,7 +1,0 @@
-*.py[cod]
-
-build
-devel
-.DS_Store
-.idea
-profile.tmp
